@@ -1,0 +1,19 @@
+{
+  "name": "angular-from-scratch",
+  "version": "0.0.1",
+  "private": true,
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "src/assets/libs",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.7",
+    "angular-sanitize": "~1.4.7",
+    "angular-ui-router": "~0.2.15",
+    "font-awesome": "fontawesome#~4.4.0",
+    "bootstrap": "~3.3.5",
+    "jquery": "~2.1.4"
+  }
+}
